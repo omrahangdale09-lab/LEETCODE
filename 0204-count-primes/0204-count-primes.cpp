@@ -29,7 +29,7 @@ public:
 
         int cnt = 1; // 2 is prime
 
-        for (int i = 3; i < n; i += 2) {
+        for (int i = 1; i < n; i += 2) {
             if (prime[i])
                 cnt++;
         }
