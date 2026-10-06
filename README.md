@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
+| [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
