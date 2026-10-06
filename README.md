@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0263-ugly-number) |
+| [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
+| [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -49,4 +51,20 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
