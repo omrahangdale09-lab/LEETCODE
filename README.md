@@ -22,6 +22,7 @@
 | [0202-happy-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -31,11 +32,13 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 ## Enumeration
@@ -78,11 +81,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
