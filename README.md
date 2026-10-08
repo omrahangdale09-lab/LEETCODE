@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0223-rectangle-area) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
