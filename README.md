@@ -47,10 +47,12 @@
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
