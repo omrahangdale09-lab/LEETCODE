@@ -33,6 +33,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0344-reverse-string) |
+| [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +126,9 @@
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
