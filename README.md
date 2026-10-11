@@ -13,6 +13,7 @@
 | [0263-ugly-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +119,8 @@
 | [0142-linked-list-cycle-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
