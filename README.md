@@ -13,6 +13,7 @@
 | [0263-ugly-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Geometry
 |  |
 | ------- |
