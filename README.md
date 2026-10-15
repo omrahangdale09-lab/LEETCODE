@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +93,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
