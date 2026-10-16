@@ -52,6 +52,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+| [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -135,6 +136,7 @@
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 ## Stack
 |  |
 | ------- |
