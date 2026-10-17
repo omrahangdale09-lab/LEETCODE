@@ -10,6 +10,7 @@
 | [0202-happy-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
