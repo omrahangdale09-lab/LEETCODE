@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
