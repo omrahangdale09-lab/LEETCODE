@@ -31,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -102,6 +105,7 @@
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +116,7 @@
 | [0344-reverse-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
