@@ -58,6 +58,7 @@
 | [0027-remove-element](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Geometry
