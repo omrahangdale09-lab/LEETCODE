@@ -18,6 +18,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+| [2652-sum-multiples](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
