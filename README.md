@@ -74,6 +74,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3151-special-array-i](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3151-special-array-i) |
 ## Enumeration
 |  |
 | ------- |
