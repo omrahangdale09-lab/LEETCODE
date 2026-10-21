@@ -60,6 +60,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
