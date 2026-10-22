@@ -82,6 +82,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3046-split-the-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3151-special-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [1929-concatenation-of-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |
