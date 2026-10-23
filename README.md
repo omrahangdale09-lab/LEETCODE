@@ -50,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@
 | [0035-search-insert-position](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0204-count-primes) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
