@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3046-split-the-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3046-split-the-array) |
 ## String
@@ -56,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -138,6 +141,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -152,6 +156,7 @@
 | [0202-happy-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
