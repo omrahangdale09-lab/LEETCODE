@@ -39,6 +39,7 @@
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3046-split-the-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/3046-split-the-array) |
 ## String
@@ -47,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -58,6 +60,7 @@
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,6 +175,7 @@
 | ------- |
 | [0136-single-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Geometry
 |  |
