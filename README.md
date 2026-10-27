@@ -69,6 +69,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0035-search-insert-position) |
@@ -140,6 +141,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -213,6 +215,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
