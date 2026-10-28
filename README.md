@@ -85,6 +85,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
