@@ -84,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
