@@ -14,6 +14,7 @@
 | [0263-ugly-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
@@ -26,6 +27,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0867-transpose-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
