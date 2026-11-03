@@ -53,6 +53,7 @@
 | [0389-find-the-difference](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0709-to-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
