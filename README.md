@@ -216,6 +216,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Brainteaser
 |  |
@@ -259,4 +260,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
