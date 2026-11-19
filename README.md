@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0344-reverse-string) |
@@ -216,6 +217,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Brainteaser
@@ -283,4 +285,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0404-sum-of-left-leaves) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/omrahangdale09-lab/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
